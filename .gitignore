@@ -1,0 +1,21 @@
+# Local secrets
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE and OS metadata
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build and distribution output
+build/
+dist/
+*.spec
